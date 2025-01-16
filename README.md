@@ -13,7 +13,7 @@ Este script permite extraer automáticamente los enlaces de los resultados de b�
 2. **Crear el Marcador:**
    - Haz clic derecho en la barra de marcadores y selecciona **"Añadir página"**.
    - En el campo **Nombre**, introduce un nombre descriptivo como `Google Url Scraper`.
-   - En el campo **URL**, pega el codigo del archivo **GoogleUrlScraper**
+   - En el campo **URL**, pega el codigo del archivo **GoogleUrlScraper.js**
 
 3. **Guardar el Marcador:**
    - Haz clic en **Guardar** para finalizar la creación del marcador.
